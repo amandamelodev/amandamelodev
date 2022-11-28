@@ -1,4 +1,4 @@
-### Hi, I'm Amanda Melo, an aspiring web developer studying at Ulbra and intern at 87Labs.
+### Hi, I'm Amanda Melo, an aspiring web developer.
 
 
 <div align="center">
