@@ -1,4 +1,4 @@
-### Hi, I'm Amanda Melo, a software engenr.
+### Hi, I'm Amanda Melo, a software engineer
 
 
 <div align="center">
