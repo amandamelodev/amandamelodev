@@ -1,4 +1,4 @@
-### Hi, I'm Amanda Melo, an aspiring web developer.
+### Hi, I'm Amanda Melo, a software engenr.
 
 
 <div align="center">
